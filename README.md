@@ -35,4 +35,5 @@
 Referências e links utilizados:
 - Textos do README.md foram retirados do vídeo: Tudo sobre o Design Pattern Singleton disponível em https://www.youtube.com/watch?v=IXgE3jmwdk0&list=PL5aY_NrL1rjtP1GVk1lxifkeob1F09L4p&index=2
 - Exemplo de código foi retirado do site baeldung disponível em https://www.baeldung.com/java-singleton
+- Exemplos Singleton, DemoSingleThread, DemoMultiThread e ThreadSafe foram retirados do site Refactoring Guru disponível em https://refactoring.guru/pt-br/design-patterns/singleton/java/example#lang-features
 
